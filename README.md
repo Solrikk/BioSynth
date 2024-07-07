@@ -1,4 +1,4 @@
-![Logo](https://github.com/Solrikk/BioSynth/blob/main/assets/OpenCV%20-%20result/bee.jpg)
+![Logo](https://github.com/Solrikk/BioSynth/blob/main/images/results/protein_dna_structure_1.png)
 
 <div align="center">
   <h3>
