@@ -1,4 +1,4 @@
-![Logo](https://github.com/Solrikk/BioSynth/blob/main/images/results/protein_dna_structure_1.png)
+![Logo](https://github.com/Solrikk/BioSynth/blob/main/images/results/uHfj7EgN6S.png)
 
 <div align="center">
   <h3>
